@@ -8,7 +8,7 @@ heroImage: /images/diwise-logo-dark.png
 
 
 ## Introduktion Diwise
-diwise är en IoT-kommunikationsplattform för att ta emot sensordata och reglera fysiska styrsystem som innebär att verksamhetssystem frikopplas från både kommunikationsgränssnitt och olika sensortyper.
+TEST diwise är en IoT-kommunikationsplattform för att ta emot sensordata och reglera fysiska styrsystem som innebär att verksamhetssystem frikopplas från både kommunikationsgränssnitt och olika sensortyper.
 
 ## Dokumentation
 Här på denna yta kommer vi publicera information och dokumentation gällande plattformen Diwise. 
